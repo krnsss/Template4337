@@ -27,7 +27,7 @@ namespace Template4337
 
         private void Karunas_4337(object sender, RoutedEventArgs e)
         {
-            Karunas_4337 k = new Karunas_4337();
+            Karunas4337 k = new Karunas4337();
             k.Show();
         }
     }
